@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346489243277",
+    "project_id": "quickwin-52b10",
+    "storage_bucket": "quickwin-52b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346489243277:android:4d46ab2adf65016b46c4c4",
+        "android_client_info": {
+          "package_name": "com.example.quickwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346489243277-s5kha19rc9vsfkhhe3egl2d51244tf92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyalALcXGqWsXHlxUbLhsKFmB3XJJV78M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346489243277-s5kha19rc9vsfkhhe3egl2d51244tf92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
